@@ -17,7 +17,7 @@ I am {{ site.author }}, {{ site.address }}
 # Jilid 2
 ## Juz 5 Surah 4: An-Nisaa&#39; (Jilid 2 Halaman 244)
 
-| Q4:024-025 --- 2 247 |
+| Q4:024-025 --- 2 247 | Q4:026-028 --- 2 257 | Q4:029-031 --- 2 261 |
 
 [&#x213C;](#)<br id="idxXXX">
 
