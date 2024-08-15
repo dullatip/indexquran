@@ -1,0 +1,46 @@
+version:          "0000--16-Aug-2024"
+copyright:        "2024-2024"
+title:            "Index Quran Tafsir Al-Azhar"
+author:           "Abdul Latip"
+address:          "Ternate."
+description:
+                  "Index Quran Tafsir Al-Azhar"
+disclaimer:
+                  "I have spoken."
+tagline:          
+                  "Index Quran Tafsir Al-Azhar"
+keywords:         Index, Quran, Tafsir, Al-Azhar
+navbarlinks:
+- navbar:         "Home"
+  link:           "/"
+- navbar:         "Links"
+  link:           "/LINKS/"
+- navbar:         "Tips"
+  link:           "/TIPS/"
+- navbar:         "GitHub"
+  link:           "https://github.com/sdnbhd/indexquran/"
+- navbar:         "Listing"
+  link:           "/000.html"
+- navbar:         "About"
+  link:           "/ABOUT/"
+- navbar:         "GitHub Page"
+  link:           "https://sdnbhd.github.io/indexquran/"
+lang:             "en-US"
+sitemap:          "true"
+markdown:         "kramdown"
+urlweb:           "https://sdnbhd.github.io/indexquran/"
+urlcontact:       "TBA"
+urlgithub:        "https://github.com/sdnbhd/indexquran/"
+google_analytics: "G-KPSLWHN6H7"
+plugins:
+- jekyll-sitemap
+- jekyll-seo-tag
+- jekyll-paginate
+defaults:
+- scope:
+    path:    ""
+  values:
+    layout:  "default"
+github:
+- metadata
+
