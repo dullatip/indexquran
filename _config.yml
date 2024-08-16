@@ -1,15 +1,15 @@
-version:          "0001b--16-Aug-2024"
+version:          "0001c--16-Aug-2024"
 copyright:        "2024-2024"
-title:            "Index Quran Tafsir Al-Azhar"
+title:            "Index Tafsir Al-Azhar HAMKA"
 author:           "Abdul Latip"
-address:          "Ternate."
+address:          "Ternate, 99772."
 description:
-                  "Index Quran Tafsir Al-Azhar"
+                  "Index Quran Tafsir Al-Azhar HAMKA"
 disclaimer:
-                  "I have spoken."
+                  "I have spoken!"
 tagline:          
-                  "Index Quran Tafsir Al-Azhar"
-keywords:         Index, Quran, Tafsir, Al-Azhar
+                  "Index Quran Tafsir Al-Azhar HAMKA"
+keywords:         Index, Quran, Tafsir, Al-Azhar, HAMKA
 navbarlinks:
 - navbar:         "Home"
   link:           "/"
@@ -31,6 +31,8 @@ navbarlinks:
   link:           "/008.html"
 - navbar:         "J9"
   link:           "/009.html"
+- navbar:         "PDF"
+  link:           "https://rms46.vlsm.org/2/230.pdf"
 - navbar:         "GitHub"
   link:           "https://github.com/sdnbhd/indexquran/"
 - navbar:         "About"
