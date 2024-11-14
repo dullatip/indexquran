@@ -61,6 +61,10 @@
   color: #f0f0f0;
 }
 
+.textleft {
+  text-align:   left;
+}
+
 .row {
 }
 
@@ -159,7 +163,7 @@ li {
 }
 
 .navbar ul li a {
-  text-decoration:  none;
+  text-decoration: none;
 }
 
 .navbar ul li a:hover {
@@ -245,5 +249,4 @@ td {
 /*
  ************************************************************
  */
-
 
